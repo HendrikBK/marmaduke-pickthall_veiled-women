@@ -38,9 +38,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An English woman joins an Egyptian harem.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Mary Smith is an English governess hired by an high-ranking Ottoman administrator in Egypt. Feeling mistreated and ignored by her native Christian society, she decides to convert to Islam and marry her employer’s son, becoming a part of the family’s harem.&lt;/p&gt;
+			&lt;p&gt;The lives of the women in the harem form the central theme of the book. Muslim women are shown not just as submissive to their male counterparts, but as beings with their own opinions and desires, contrasting other depictions commom at the time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57297</dc:source>
